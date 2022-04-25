@@ -1,0 +1,11 @@
+{
+  "context-menu": {
+    ".CodeMirror": [
+      {
+        "label": "Toggle center-editor",
+        "command": "center-editor:toggle"
+      }
+    ]
+  },
+  "menu": []
+}

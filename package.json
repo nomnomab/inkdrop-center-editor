@@ -1,0 +1,13 @@
+{
+  "name": "center-editor",
+  "main": "./lib/center-editor",
+  "version": "0.0.0",
+  "description": "This plugin simply centers the editor for larger screens.",
+  "keywords": [],
+  "repository": "https://github.com/nomnomab/inkdrop-center-editor",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^5.3.1"
+  },
+  "dependencies": {}
+}
