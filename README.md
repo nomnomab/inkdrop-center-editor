@@ -9,4 +9,4 @@ ipm install center-editor
 # Usage
 Enabling/disabling the plugin will automatically center/uncenter the editor for you.
 
-![Demonstration GIF](/~images/demonstration.gif)
+![Demonstration GIF](/~Images/demonstration.gif)
